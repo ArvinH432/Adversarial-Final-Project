@@ -23,9 +23,9 @@ This notebook:
 
 ## Where the Main Code Is
 
-- **Training code:** CNN training and adversarial training sections in `completed_adversarial_ml_project.ipynb`
-- **Inference / evaluation code:** clean accuracy evaluation and FGSM testing sections in `completed_adversarial_ml_project.ipynb`
-- **Demo / visualization code:** accuracy-vs-epsilon plots and adversarial example visualization cells in `completed_adversarial_ml_project.ipynb`
+- **Training code:** CNN training and adversarial training sections in `final-project.ipynb`
+- **Inference / evaluation code:** clean accuracy evaluation and FGSM testing sections in `final-project.ipynb`
+- **Demo / visualization code:** accuracy-vs-epsilon plots and adversarial example visualization cells in `final-project.ipynb`
 
 ## Output
 
