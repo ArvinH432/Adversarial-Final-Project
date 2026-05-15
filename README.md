@@ -4,7 +4,7 @@
 Open the notebook and run all cells in order.
 
 Main notebook:
-- `completed_adversarial_ml_project.ipynb`
+- `final-project.ipynb`
 
 This notebook:
 - trains a baseline CNN on MNIST
